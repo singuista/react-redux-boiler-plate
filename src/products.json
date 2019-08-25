@@ -1,0 +1,90 @@
+[
+    {
+        "productId": "",
+        "name": "Shae butter",
+        "description": "Our pure, organic, and fair trade shea butter is cultivated in, and shipped directly from, Ghana, West Africa. Our unrefined shea butter, extracted from shea nuts, is of the highest quality, and unlike that of other distributors. This smooth, natural product is the ideal shea butter for high quality goods. \n\n We guarantee the finest quality for all of our products.",
+        "image": "",
+        "price": {
+            "type": "wholesale",
+            "options": [
+                {
+                    "label": "12.5 - 25Kg",
+                    "cost": 5.00
+                },
+                {
+                    "label": "5Kg - 12.5Kg",
+                    "cost": 7.00
+                },
+                {
+                    "label": "2Kg - 5Kg",
+                    "cost": 8.00
+                },
+                {
+                    "label": "500kg @1.5 per lb",
+                    "cost": 1635.00
+                },
+                {
+                    "label": "1000Kg @1.43 per lb",
+                    "cost": 3153.15
+                },
+                {
+                    "label": "2000Kg @1.38 per lb",
+                    "cost": 6086.00
+                }
+            ]
+        }
+    },
+    {
+        "productId": "",
+        "name": "Cocoa Butter",
+        "description": "Our pure and natural cocoa butter is extracted from premium cocoa bean grown, and fairly traded, in Ghana, West Africa. This versatile product can be used for a number of recipes that range from health and beauty products to food products. \n\n We guarantee the finest quality for all of our products.",
+        "image": "",
+        "price": {
+            "type":"wholesale",
+            "options": [
+                {
+                    "label": "12Kg @6.7 per lb",
+                    "cost": 175.00
+                },
+                {
+                    "label": "50Kg @6.3 per lb",
+                    "cost": 693.00
+                }
+            ]
+        }
+    },
+    {
+        "productId": "",
+        "name": "Coconut Oil",
+        "description": "Our virgin coconut oil is natural and directly cultivated from coconuts in Ghana, West Africa. We remove impurities but refrain from adding unnecessary chemicals to our product to ensure customers receive the finest coconut oil possible. \n\n We guarantee the finest quality for all of our products.",
+        "image": "",
+        "price": {
+            "type":"wholesale",
+            "options": [
+                {
+                    "label": "20Kg",
+                    "cost": 130.00
+                }
+            ]
+        }
+    },
+    {
+        "productId": "",
+        "name": "Black Soap",
+        "description": "Our natural, raw black soap is made of all natural, organic ingredients in Ghana, West Africa. Our product is handmade, and this textured product can be used in a number of versatile ways. \n\n We guarantee the finest quality for all of our products.",
+        "image": "",
+        "price": {
+            "type":"wholesale",
+            "options": [
+                {
+                    "label": "20Kg",
+                    "cost": 80.00
+                },
+                {
+                    "label": "1000Kg @2.10 per lb",
+                    "cost": 4630.00
+                }
+            ]
+        }
+    }
+]
