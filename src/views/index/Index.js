@@ -21,8 +21,6 @@ class Index extends Component {
         return 
     }
     render() {
-        //console.log('this.props === ', this.props)
-        //console.log('this.props.items === ', this.props.items)
         return(
             <section>
                 This is the home page View
