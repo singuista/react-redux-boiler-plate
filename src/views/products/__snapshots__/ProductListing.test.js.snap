@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductListing Component renders without crashing 1`] = `
+Array [
+  <header
+    className="header header-products"
+  >
+    <img
+      alt="logo"
+      className="header__logo"
+      src="logo.png"
+    />
+  </header>,
+  <section
+    className="productListingContainer viewPadding"
+  >
+    <div
+      className="productItem"
+    >
+      <aside
+        className="productItem__image"
+      >
+        <img
+          alt="Shae butter"
+          src="https://dummyimage.com/240x4:3"
+        />
+      </aside>
+      <div
+        className="productItem__info"
+      >
+        <h2
+          className="productItem__name"
+        >
+          Shae butter
+        </h2>
+        <p>
+          Our pure, organic, and fair trade shea butter is cultivated in, and shipped directly from, Ghana, West Africa. Our unrefined shea butter, extracted from shea nuts, is of the highest quality, and unlike that of other distributors. This smooth, natural product is the ideal shea butter for high quality goods. 
+
+ We guarantee the finest quality for all of our products.
+        </p>
+      </div>
+      <div
+        className="productItem__pricingContainer"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'><input type='hidden' name='cmd' value='_s-xclick' /><input type='hidden' name='hosted_button_id' value='24W7MW5DWXDU6' /><table><tr><td><input type='hidden' name='on0' value='Select One Type' />Select One Type</td></tr><tr><td><select name='os0'><option value='12.5 - 25Kg'>12.5 - 25Kg $5.00 USD</option><option value='5Kg - 12.5Kg'>5Kg - 12.5Kg $7.00 USD</option><option value='2Kg - 5Kg'>2Kg - 5Kg $8.00 USD</option><option value='500kg @1.5 per lbs'>500kg @1.5 per lbs $1,635.00 USD</option><option value='1000Kg @1.43 per lbs'>1000Kg @1.43 per lbs $3,153.15 USD</option><option value='2000Kg @1.38 per lbs'>2000Kg @1.38 per lbs $6,086.00 USD</option></select> </td></tr></table><input type='hidden' name='currency_code' value='USD' /><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!' /><img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1' /></form>",
+          }
+        }
+      />
+    </div>
+    <div
+      className="productItem"
+    >
+      <aside
+        className="productItem__image"
+      >
+        <img
+          alt="Cocoa Butter"
+          src="https://dummyimage.com/240x4:3"
+        />
+      </aside>
+      <div
+        className="productItem__info"
+      >
+        <h2
+          className="productItem__name"
+        >
+          Cocoa Butter
+        </h2>
+        <p>
+          Our pure and natural cocoa butter is extracted from premium cocoa bean grown, and fairly traded, in Ghana, West Africa. This versatile product can be used for a number of recipes that range from health and beauty products to food products. 
+
+ We guarantee the finest quality for all of our products.
+        </p>
+      </div>
+      <div
+        className="productItem__pricingContainer"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'><input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='UK57GN9DL584Y'><table><tr><td><input type='hidden' name='on0' value='Select Weight'>Select Weight</td></tr><tr><td><select name='os0'><option value='12Kg @6.7 per lbs'>12Kg @6.7 per lbs $175.00 USD</option><option value='50Kg @6.3 per lbs'>50Kg @6.3 per lbs $693.00 USD</option></select> </td></tr></table><input type='hidden' name='currency_code' value='USD'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'></form>",
+          }
+        }
+      />
+    </div>
+    <div
+      className="productItem"
+    >
+      <aside
+        className="productItem__image"
+      >
+        <img
+          alt="Coconut Oil"
+          src="https://dummyimage.com/240x4:3"
+        />
+      </aside>
+      <div
+        className="productItem__info"
+      >
+        <h2
+          className="productItem__name"
+        >
+          Coconut Oil
+        </h2>
+        <p>
+          Our virgin coconut oil is natural and directly cultivated from coconuts in Ghana, West Africa. We remove impurities but refrain from adding unnecessary chemicals to our product to ensure customers receive the finest coconut oil possible. 
+
+ We guarantee the finest quality for all of our products.
+        </p>
+      </div>
+      <div
+        className="productItem__pricingContainer"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'><input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='5733HVP3N2VQQ'><table><tr><td><input type='hidden' name='on0' value='Select Weight'>Select Weight</td></tr><tr><td><select name='os0'><option value='20Kg'>20Kg $80.00 USD</option><option value='1000Kg @2.10 per lbs4630.00'>1000Kg @2.10 per lbs4630.00 $4,630.00 USD</option></select> </td></tr></table><input type='hidden' name='currency_code' value='USD'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'</form>",
+          }
+        }
+      />
+    </div>
+    <div
+      className="productItem"
+    >
+      <aside
+        className="productItem__image"
+      >
+        <img
+          alt="Black Soap"
+          src="https://dummyimage.com/240x4:3"
+        />
+      </aside>
+      <div
+        className="productItem__info"
+      >
+        <h2
+          className="productItem__name"
+        >
+          Black Soap
+        </h2>
+        <p>
+          Our natural, raw black soap is made of all natural, organic ingredients in Ghana, West Africa. Our product is handmade, and this textured product can be used in a number of versatile ways. 
+
+ We guarantee the finest quality for all of our products.
+        </p>
+      </div>
+      <div
+        className="productItem__pricingContainer"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'><input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='S3A72X5RPDJE6'><table><tr><td><input type='hidden' name='on0' value='Select Weight'>Select Weight</td></tr><tr><td><select name='os0'><option value='20Kg'>20Kg $80.00 USD</option><option value='1000Kg @2.10 per lbs'>1000Kg @2.10 per lbs $4,630.00 USD</option></select> </td></tr></table><input type='hidden' name='currency_code' value='USD'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'></form>",
+          }
+        }
+      />
+    </div>
+  </section>,
+]
+`;
