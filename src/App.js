@@ -23,7 +23,7 @@ function App() {
 				<BrowserRouter>
 					<Router history={history}>
 						<Switch>
-							<Route exact path="/" component={Index} />
+							<Route exact path="/" component={ProductListing} />
 							<Route path="/products" component={ProductListing} />
 							<Route path="*" component={NotFound}/>
 						</Switch>
