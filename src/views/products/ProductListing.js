@@ -16,7 +16,6 @@ class ProductListing extends Component {
 				label: '',
 				image: 'https://dummyimage.com/200x200/000/fff'
 			},
-			showModal: false,
             productData: {
                 data
             }
